@@ -8,7 +8,7 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
         <title>Hugo Theme MemE</title>
-        <link>https://amazing-brown-db916e.netlify.app/</link>
+        <link>https://optimistic-nightingale-7bcaf4.netlify.app/</link>
         <description>MemE is a powerful and highly customizable GoHugo theme for personal blogs.</description>
         <generator>Hugo 0.71.1 https://gohugo.io/</generator>
         
@@ -23,15 +23,15 @@
         
             <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</copyright>
         
-        <lastBuildDate>Fri, 29 May 2020 22:17:51 &#43;0000</lastBuildDate>
+        <lastBuildDate>Fri, 29 May 2020 22:30:42 &#43;0000</lastBuildDate>
         
-            <atom:link rel="self" type="application/rss&#43;xml" href="https://amazing-brown-db916e.netlify.app/rss.xml" />
+            <atom:link rel="self" type="application/rss&#43;xml" href="https://optimistic-nightingale-7bcaf4.netlify.app/rss.xml" />
         
         
             <item>
                 <title>Hello World</title>
-                <link>https://amazing-brown-db916e.netlify.app/posts/hello-world/</link>
-                <guid isPermaLink="true">https://amazing-brown-db916e.netlify.app/posts/hello-world/</guid>
+                <link>https://optimistic-nightingale-7bcaf4.netlify.app/posts/hello-world/</link>
+                <guid isPermaLink="true">https://optimistic-nightingale-7bcaf4.netlify.app/posts/hello-world/</guid>
                 <pubDate>Fri, 29 May 2020 21:29:58 &#43;0000</pubDate>
                 
                     <author>reuixiy@gmail.com (reuixiy)</author>
