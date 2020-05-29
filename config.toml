@@ -1,6 +1,6 @@
 ##########################################
 # Site Settings
-baseURL = https://optimistic-nightingale-7bcaf4.netlify.app/"
+baseURL = "https://optimistic-nightingale-7bcaf4.netlify.app/"
 title = "Hugo Theme MemE"
 languageCode = "en"
 hasCJKLanguage = false
